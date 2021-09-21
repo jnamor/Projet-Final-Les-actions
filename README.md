@@ -1,4 +1,4 @@
-# Projet-Final-Les-actions
+# Projet-Final-Les-actions boursieres
 
 À l'isssue de la formation, un projet final appelé « Chef d'oeuvre » doit être développé par l'apprenant pour montrer un résumé de toutes les compétences développées jusqu'ici. L'étudiant est libre du sujet choisi et des technologies utilisées tant que le projet respecte les critères requis à l'optention de la certification.
 
