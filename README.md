@@ -10,3 +10,5 @@ Quelques exemples de technologies utilisées durant le projet :
 - Librairies : Pandas, pymysql, Plotly
 - Framework : Dash
 - ...
+
+Un rapport de 30 pages accompagné d'une présentation Power Point sont disponibles ce qui permet de mettre en avant le contexte du projet ainsi que les résultats observés.
